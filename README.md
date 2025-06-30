@@ -61,7 +61,7 @@ the FRBs discovered up to date, such as:
 Additionally, the platform enables astronomers and researchers to rapidly plot parameter distributions for a
 variety of visualizations, concerning FRB population studies and more, without having to download and install any
 packages on their machine locally. All parametric plots are displayed on the web, as all computations are carried out
-by the server automatically.
+in the browser using JavaScript.
 
 ---
 
